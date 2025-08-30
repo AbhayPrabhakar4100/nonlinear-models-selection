@@ -69,4 +69,3 @@ Energy modeling plays a vital role in **sustainable building design**. The aim o
 - **Decision Trees** → Easy to interpret, prone to overfitting (pruned for stability).  
 - **Ridge Regression** → Adds regularization but no significant boost over linear regression.  
 
-## 📋 Project Structure
